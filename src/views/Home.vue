@@ -78,7 +78,7 @@ select {
 }
 select::after {
   background-color: #f8d5d5;
-  opacity: 80%;}
+  opacity: 90%;}
 </style> 
   
 
